@@ -53,14 +53,6 @@ Ensure you have the following installed:
 
 [Visit Matrimony Nexus Here](#)
 
----
-
-## Repository Links
-
-- **Frontend Repository**: [GitHub Link](#)
-- **Backend Repository**: [GitHub Link](#)
-
----
 
 ## Deployment
 
