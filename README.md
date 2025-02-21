@@ -51,8 +51,11 @@ Ensure you have the following installed:
 
 ## Live Application
 
-[Visit Matrimony Nexus Here](#)
+[Visit Matrimony Nexus Here](https://matrimony-project-80f8d.web.app/)
 
+## Email & Password
+   Admin Email: admin@mail.com
+   Admin Password: aA12345
 
 ## Deployment
 
@@ -66,20 +69,3 @@ Ensure you have the following installed:
 2. Implement AI-based matchmaking suggestions.
 3. Expand admin analytics with detailed insights.
 
----
-
-## Contributing
-
-We welcome contributions! To contribute:
-1. Fork the repository.
-2. Commit your changes (`git commit -m 'Matrimony Nexus'`).
-3. Push to the branch (`git push origin feature-name`).
-4. Create a Pull Request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
